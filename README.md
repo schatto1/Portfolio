@@ -4,6 +4,6 @@ This will be a portfolio that will showcase all of the work I have done, both pr
 
 Currently it only contains a bunch of photos of red pandas (my favorite), and some bacon ipsum quotes (did someone's stomach just gurgle?).
 
-A Pen created at CodePen.io. You can find this one at https://codepen.io/schatto1/pen/pawwdV.
+Originally created at CodePen.io as part of a coding challenge for [freeCodeCamp](https://www.freecodecamp.org/). You can find this Pen at https://codepen.io/schatto1/pen/pawwdV.
 
  
